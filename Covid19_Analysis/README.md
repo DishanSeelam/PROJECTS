@@ -2,6 +2,8 @@
 
 This project explores the relationship between COVID-19 confirmed cases and World Happiness factors such as GDP per capita, life expectancy, and social support. Using real datasets from 2020, it highlights how global health crises intersect with socioeconomic well-being.
 
+
+
 📂 Project Overview
 
 Dataset 1: COVID-19 confirmed cases (as of 2020-05-01).
@@ -11,6 +13,8 @@ Dataset 2: Worldwide Happiness Report.
 Goal: To analyze correlations between COVID-19 impact and happiness-related factors across countries.
 
 Approach: Data cleaning, merging, correlation analysis, and scatter plot visualizations.
+
+
 
 ⚙️ Technologies Used
 
@@ -24,7 +28,10 @@ Matplotlib & Seaborn → Visualization
 
 Plotly Express → Interactive visualization
 
+
+
 📊 Workflow
+
 1. Data Preprocessing
 
 Removed unnecessary columns from the COVID-19 dataset (Lat, Long).
@@ -49,6 +56,8 @@ Healthy life expectancy vs COVID-19 cases
 
 Social support vs COVID-19 cases
 
+
+
 📈 Key Insights
 
 The latest COVID-19 data used is from May 1, 2020.
@@ -65,7 +74,10 @@ More widespread testing
 
 Healthy life expectancy and social support systems may have helped certain countries manage the pandemic more effectively.
 
+
+
 📷 Example Visualizations
+
 GDP vs COVID-19 Cases
 
 Scatter plot showing the relationship between GDP per capita and total confirmed cases.
@@ -77,6 +89,9 @@ Regression plot analyzing whether healthy life expectancy influenced pandemic ou
 Social Support vs COVID-19 Cases
 
 Scatter plot highlighting how social support relates to confirmed case numbers.
+
+
+
 📝 Author
 
 Developed by Dishan Hari Seelam — exploring the intersection of data science, global health, and well-being.
