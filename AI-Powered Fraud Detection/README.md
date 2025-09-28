@@ -1,8 +1,11 @@
 🛡️ AI-Powered Fraud Detection System
 ---
+---
 An end-to-end fraud detection pipeline built with Python & Machine Learning, combining supervised and unsupervised learning methods for real-time fraud detection, alerting, and reporting.
 ---
+---
 This project simulates real-world financial transactions, trains ML models, and continuously monitors new transactions for fraudulent activity with a complete dashboard & alerting system.
+---
 ---
 🚀 Features
 
@@ -27,6 +30,7 @@ This project simulates real-world financial transactions, trains ML models, and 
 ✅ Model Persistence – Save & load models with joblib for deployment.
 
 ---
+---
 
 🧠 ML Models Used
 
@@ -36,6 +40,7 @@ This project simulates real-world financial transactions, trains ML models, and 
 
   Ensemble Scoring – Weighted combination of supervised & anomaly detection scores.
 
+---
 ---
 
 🔔 Real-Time Alerting
