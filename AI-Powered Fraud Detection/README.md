@@ -26,6 +26,7 @@ This project simulates real-world financial transactions, trains ML models, and 
 
 ✅ Model Persistence – Save & load models with joblib for deployment.
 
+---
 
 🧠 ML Models Used
 
@@ -35,9 +36,11 @@ This project simulates real-world financial transactions, trains ML models, and 
 
   Ensemble Scoring – Weighted combination of supervised & anomaly detection scores.
 
+---
+
 🔔 Real-Time Alerting
 
-  Fraudulent or suspicious transactions trigger alerts in logs and console:
-  WARNING - FRAUD ALERT: BLOCKED: $4789.50 transaction | Risk Score: 0.921
+Fraudulent or suspicious transactions trigger alerts in logs and console:
+WARNING - FRAUD ALERT: BLOCKED: $4789.50 transaction | Risk Score: 0.921
 
 
